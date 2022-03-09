@@ -12,7 +12,7 @@
  - [Notion](https://www.notion.so/17ff16d892c54f32810e0d41a39b19de)
 
 ## 개발 기간 및 팀원 소개
-2022.02.11 - 2022.02.017
+2022.02.11 - 2022.02.17
 
 ### Back-end
 <a href="https://github.com/daonez"><img width="180"  src="https://img.shields.io/static/v1?label=Node.js&message=Francisco Choi&color=08CE5D&style=for-the-badge&>"/></a> <a href="https://github.com/Sinclebear"><img width="180"  src="https://img.shields.io/static/v1?label=Node.js&message=Sanghyuk Jin&color=08CE5D&style=for-the-badge&>"/></a> <a href="https://github.com/bgg01555"><img width="180"  src="https://img.shields.io/static/v1?label=Node.js&message=Juhyeon Yu&color=08CE5D&style=for-the-badge&>"/></a>
